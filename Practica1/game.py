@@ -45,3 +45,5 @@ total_time = end_time - init_time
 # Mostramos ese tiempo en segundos.
 print(f"\n Tardaste {total_time.seconds} segundos.")
 print(f"Las veces que gano fueron: {cantG} y las veces que perdio fue : {cantP}")
+
+#hola git
